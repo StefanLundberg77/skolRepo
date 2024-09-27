@@ -1,0 +1,2 @@
+# skolRepo
+lär mig git
