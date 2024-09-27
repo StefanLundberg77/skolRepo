@@ -1,2 +1,2 @@
 # skolRepo
-lär mig git
+Jag försöker lära mig git.
